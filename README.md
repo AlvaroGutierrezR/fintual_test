@@ -14,7 +14,7 @@ Fintual Test is a Python-based tool for simulating and analyzing investment port
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/fintual_test.git
+   git clone https://github.com/AlvaroGutierrezR/fintual_test.git
    cd fintual_test
    ```
 
