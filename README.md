@@ -59,16 +59,16 @@ Fintual Test is a Python-based tool for simulating and analyzing investment port
 ## References
 
 Web searching:  
-https://docs.python.org/3/library/datetime.html  
-https://www.w3schools.com/python/python_comments.asp  
-https://docs.python.org/es/3.13/library/__main__.html  
-https://docs.python.org/3/library/dataclasses.html  
-https://www.digitalocean.com/community/tutorials/python-static-method  
-https://docs.python.org/3/library/enum.html  
+- https://docs.python.org/3/library/datetime.html  
+- https://www.w3schools.com/python/python_comments.asp  
+- https://docs.python.org/es/3.13/library/__main__.html  
+- https://docs.python.org/3/library/dataclasses.html  
+- https://www.digitalocean.com/community/tutorials/python-static-method  
+- https://docs.python.org/3/library/enum.html  
 
 LLM:  
-create a README for this files.
-add output of the script to readme.md
+- create a README for this files.
+- add output of the script to readme.md
 
 ## License
 
